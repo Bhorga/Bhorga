@@ -1,0 +1,12 @@
+{
+  "name": "backend-new",
+  "version": "1.0.0",
+  "author" : "bhorga",
+  "description": "learn node js",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node server.js",
+    "test": "node server.js"
+  },
+  "license": "ISC"
+}
